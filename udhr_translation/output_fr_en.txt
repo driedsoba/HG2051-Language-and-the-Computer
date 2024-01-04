@@ -1,0 +1,244 @@
+1 Fr:	Déclaration universelle des droits de l’homme
+En:	Universal Declaration of Human Rights
+Fr-En:	Déclaration universel de droit de l’ homme
+
+2 Fr:	Préambule
+En:	Preamble
+Fr-En:	Préambule
+
+3 Fr:	Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde,
+En:	Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
+Fr-En:	Considérer que le reconnaissance de le dignité inhérent à tout le membre de le famille humain et de leur droit égal et inaliénable constituer le fondement de le liberté , de le justice et de le paix dans le monde ,
+
+4 Fr:	Considérant que la méconnaissance et le mépris des droits de l’homme ont conduit à des actes de barbarie qui révoltent la conscience de l’humanité et que l’avènement d’un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l’homme,
+En:	Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,
+Fr-En:	Considérer que le méconnaissance et le mépris de droit de l’ homme avoir conduire à un acte de barbarie qui révolter le conscience de l’ humanité et que l’ avènement d’ un monde où le être humain être libre de parler et de croire , libérer de le terreur et de le misère , avoir être proclamer comme le plus haute aspiration de l’ homme ,
+
+5 Fr:	Considérant qu’il est essentiel que les droits de l’homme soient protégés par un régime de droit pour que l’homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l’oppression,
+En:	Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,
+Fr-En:	Considérer qu’ il être essentiel que le droit de l’ homme être protéger par un régime de droit pour que l’ homme ne être pas contraindre , en suprême recours , à le révolte contre le tyrannie et l’ oppression ,
+
+6 Fr:	Considérant qu’il est essentiel d’encourager le développement de relations amicales entre nations,
+En:	Whereas it is essential to promote the development of friendly relations between nations,
+Fr-En:	Considérer qu’ il être essentiel d’ encourager le développement de relation amical entrer nation ,
+
+7 Fr:	Considérant que dans la Charte les peuples des Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l’homme, dans la dignité et la valeur de la personne humaine, dans l’égalité des droits des hommes et des femmes, et qu’ils se sont déclarés résolus à favoriser le progrès social et à instaurer de meilleures conditions de vie dans une liberté plus grande,
+En:	Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,
+Fr-En:	Considérer que dans le charte le peuple de nation unie avoir proclamer à nouveau son foi dans le droit fondamental de l’ homme , dans le dignité et le valeur de le personne humain , dans l’ égalité de droit de homme et un femme , et qu’ il se être déclarer résoudre à favoriser le progrès social et à instaurer de meilleur condition de vie dans un liberté plus grand ,
+
+8 Fr:	Considérant que les États Membres se sont engagés à assurer, en coopération avec l’Organisation des Nations Unies, le respect universel et effectif des droits de l’homme et des libertés fondamentales,
+En:	Whereas Member States have pledged themselves to achieve, in co‐operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,
+Fr-En:	Considérer que le état membre se être engager à assurer , en coopération avec l’ organisation de nation unie , le respect universel et effectif de droit de l’ homme et de liberté fondamentale ,
+
+9 Fr:	Considérant qu’une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement,
+En:	Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,
+Fr-En:	Considérer qu’ un conception commun de ce droit et liberté être de le plus haute importanc pour remplir pleinement ce engagement ,
+
+10 Fr:	L’Assemblée générale
+En:	Now, therefore,
+Fr-En:	L’ assemblée général
+
+11 Fr:	Proclame la présente Déclaration universelle des droits de l’homme comme l’idéal commun à atteindre par tous les peuples et toutes les nations afin que tous les individus et tous les organes de la société, ayant cette Déclaration constamment à l’esprit, s’efforcent, par l’enseignement et l’éducation, de développer le respect de ces droits et libertés et d’en assurer, par des mesures progressives d’ordre national et international, la reconnaissance et l’application universelles et effectives, tant parmi les populations des États Membres eux‐mêmes que parmi celles des territoires placés sous leur juridiction.
+En:	The General Assembly
+Fr-En:	Proclame le présent déclaration universel de droit de l’ homme comme l’ idéal commun à atteindre par tout le peuple et tout le nation afin que tout le individu et tout le organe de le société , avoir ce déclaration constamment à l’ esprit , s’ efforcer , par l’ enseignement et l’ éducation , de développer le respect de ce droit et liberté et d’ en assurer , par un mesure progressif d’ ordre national et international , le reconnaissance et l’ application universel et effectif , tant parmi le population de état membre eux‐même que parmi celui de territoire placer sou son juridiction .
+
+12 Fr:	Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
+En:	Proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
+Fr-En:	Tout le être humain naître libre et égal en dignité et en droit . il être douer de raison et de conscience et devoir agir le un envers le autre dans un esprit de fraternité .
+
+13 Fr:	Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d’opinion politique ou de toute autre opinion, d’origine nationale ou sociale, de fortune, de naissance ou de toute autre situation.
+En:	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+Fr-En:	Chacun pouvoir se prévaloir de tout le droit et de tout le liberté proclamer dans le présent déclaration , sans distinction aucun , notamment de race , de couleur , de sexe , de langue , de religion , d’ opinion politique ou de tout autre opinion , d’ origine national ou social , de fortune , de naissance ou de tout autre situation .
+
+14 Fr:	De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou du territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.
+En:	Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+Fr-En:	De plus , il ne être faire aucun distinction fonder sur le statut politique , juridique ou international de pays ou de territoire dont un personne être ressortissant , que ce pays ou territoire être indépendant , sou tutelle , non autonome ou soumettre à un limitation quelconque de souveraineté .
+
+15 Fr:	Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
+En:	Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non‐self‐governing or under any other limitation of sovereignty.
+Fr-En:	Tout individu avoir droit à le vie , à le liberté et à le sûreté de son personne .
+
+16 Fr:	Nul ne sera tenu en esclavage ni en servitude ; l’esclavage et la traite des esclaves sont interdits sous toutes leurs formes.
+En:	Everyone has the right to life, liberty and the security of person.
+Fr-En:	Nul ne être tenir en esclavage ni en servitude ; l’ esclavage et le traite de esclave être interdire sou tout leur forme .
+
+17 Fr:	Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
+En:	No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.
+Fr-En:	Nul ne être soumettre à le torture , ni à un peine ou traitement cruel , inhumain ou dégradant .
+
+18 Fr:	Chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique.
+En:	No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+Fr-En:	Chacun avoir le droit à le reconnaissance en tout lieux de son personnalité juridique .
+
+19 Fr:	Tous sont égaux devant la loi et ont droit sans distinction à une égale protection de la loi. Tous ont droit à une protection égale contre toute discrimination qui violerait la présente Déclaration et contre toute provocation à une telle discrimination.
+En:	Everyone has the right to recognition everywhere as a person before the law.
+Fr-En:	Tout être égal devant le loi et avoir droit sans distinction à un égal protection de le loi . tout avoir droit à un protection égal contre tout discrimination qui violer le présent déclaration et contre tout provocation à un tel discrimination .
+
+20 Fr:	Toute personne a droit à un recours effectif devant les juridictions nationales compétentes contre les actes violant les droits fondamentaux qui lui sont reconnus par la constitution ou par la loi.
+En:	All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.
+Fr-En:	Tout personne avoir droit à un recours effectif devant le juridiction national compétent contre le acte violer le droit fondamental qui luire être reconnaître par le constitution ou par le loi .
+
+21 Fr:	Nul ne peut être arbitrairement arrêté, détenu ni exilé.
+En:	Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.
+Fr-En:	Nul ne pouvoir être arbitrairement arrêter , détenir ni exiler .
+
+22 Fr:	Toute personne a droit, en pleine égalité, à ce que sa cause soit entendue équitablement et publiquement par un tribunal indépendant et impartial, qui décidera, soit de ses droits et obligations, soit du bien fondé de toute accusation en matière pénale dirigée contre elle.
+En:	No one shall be subjected to arbitrary arrest, detention or exile.
+Fr-En:	Tout personne avoir droit , en pleine égalité , à ce que son cause être entendre équitablemer et publiquement par un tribunal indépendant et impartial , qui décider , être de son droit et obligation , être de bien fonder de tout accusation en matière pénal diriger contre lui .
+
+23 Fr:	Toute personne accusée d’un acte délictueux est présumée innocente jusqu’à ce que sa culpabilité ait été légalement établie au cours d’un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées.
+En:	Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.
+Fr-En:	Tout personne accuser d’ un acte délictueux être présumer innocent jusqu’ à ce que son culpabilité avoir être légalement établir au cours d’ un procès public où tout le garantie nécessaire à son défense luire avoir être assurer .
+
+24 Fr:	Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ont été commises, ne constituaient pas un acte délictueux d’après le droit national ou international. De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l’acte délictueux a été commis.
+En:	Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.
+Fr-En:	Nul ne être condamner pour un action ou omission qui , au moment où lui avoir être commettre , ne constituer pas un acte délictueux d’ après le droit national ou international . de même , il ne être infliger aucun peine plus fort que celui qui être applicable au moment où l’ acte délictueux avoir être commettre .
+
+25 Fr:	Nul ne sera l’objet d’immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d’atteintes à son honneur et à sa réputation. Toute personne a droit à la protection de la loi contre de telles immixtions ou de telles atteintes.
+En:	No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.
+Fr-En:	Nul ne être l’ objet d’ immixtion arbitraire dans son vie priver , son famille , son domicile ou son correspondance , ni d’ atteindre à son honneur et à son réputation . tout personne avoir droit à le protection de le loi contre de tel immixtion ou de tel atteinte .
+
+26 Fr:	Toute personne a le droit de circuler librement et de choisir sa résidence à l’intérieur d’un État.
+En:	No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+Fr-En:	Tout personne avoir le droit de circuler librement et de choisir son résidence à l’ intérieur d’ un état .
+
+27 Fr:	Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dans son pays.
+En:	Everyone has the right to freedom of movement and residence within the borders of each State.
+Fr-En:	Tout personne avoir le droit de quitter tout pays , y compris le sien , et de revenir dans son pays .
+
+28 Fr:	Devant la persécution, toute personne a le droit de chercher asile et de bénéficier de l’asile en d’autres pays.
+En:	Everyone has the right to leave any country, including his own, and to return to his country.
+Fr-En:	Devant le persécution , tout personne avoir le droit de chercher asil et de bénéficier de l’ asil en d’ autre pays .
+
+29 Fr:	Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur un crime de droit commun ou sur des agissements contraires aux buts et aux principes des Nations Unies.
+En:	Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+Fr-En:	Ce droit ne pouvoir être invoquer dans le cas de poursuite réellement fonder sur un crime de droit commun ou sur un agissement contraire à but et à principe de nation unie .
+
+30 Fr:	Tout individu a droit à une nationalité.
+En:	This right may not be invoked in the case of prosecutions genuinely arising from non‐political crimes or from acts contrary to the purposes and principles of the United Nations.
+Fr-En:	Tout individu avoir droit à un nationalité .
+
+31 Fr:	Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer de nationalité.
+En:	Everyone has the right to a nationality.
+Fr-En:	Nul ne pouvoir être arbitrairement priver de son nationalité , ni de droit de changer de nationalité .
+
+32 Fr:	A partir de l’âge nubile, l’homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille. Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution.
+En:	No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
+Fr-En:	A partir de l’ âge nubile , l’ homme et le femme , sans aucun restriction quant à le race , le nationalité ou le religion , avoir le droit de se marier et de fonder un famille . il avoir un droit égal au regard de mariage , durer le mariage et lors de son dissolution .
+
+33 Fr:	Le mariage ne peut être conclu qu’avec le libre et plein consentement des futurs époux.
+En:	Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
+Fr-En:	Le mariage ne pouvoir être conclure qu’ avec le libre et plein consentement de futur époux .
+
+34 Fr:	La famille est l’élément naturel et fondamental de la société et a droit à la protection de la société et de l’État.
+En:	Marriage shall be entered into only with the free and full consent of the intending spouses.
+Fr-En:	Le famille être l’ élément naturel et fondamental de le société et avoir droit à le protection de le société et de l’ état .
+
+35 Fr:	Toute personne, aussi bien seule qu’en collectivité, a droit à la propriété.
+En:	The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
+Fr-En:	Tout personne , aussi bien seul qu’ en collectivité , avoir droit à le propriété .
+
+36 Fr:	Nul ne peut être arbitrairement privé de sa propriété.
+En:	Everyone has the right to own property alone as well as in association with others.
+Fr-En:	Nul ne pouvoir être arbitrairement priver de son propriété .
+
+37 Fr:	Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction, seule ou en commun, tant en public qu’en privé, par l’enseignement, les pratiques, le culte et l’accomplissement des rites.
+En:	No one shall be arbitrarily deprived of his property.
+Fr-En:	Tout personne avoir droit à le liberté de pensée , de conscience et de religion ; ce droit impliquer le liberté de changer de religion ou de conviction ainsi que le liberté de manifester son religion ou son conviction , seul ou en commun , tant en public qu’ en privé , par l’ enseignement , le pratique , le culte et l’ accomplissement de rite .
+
+38 Fr:	Tout individu a droit à la liberté d’opinion et d’expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de recevoir et de répandre, sans considérations de frontières, les informations et les idées par quelque moyen d’expression que ce soit.
+En:	Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.
+Fr-En:	Tout individu avoir droit à le liberté d’ opinion et d’ expression , ce qui impliquer le droit de ne pas être inquiéter pour son opinion et celui de chercher , de recevoir et de répandre , sans considération de frontière , le information et le idée par quelque moyen d’ expression que ce soit .
+
+39 Fr:	Toute personne a droit à la liberté de réunion et d’association pacifiques.
+En:	Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
+Fr-En:	Tout personne avoir droit à le liberté de réunion et d’ association pacifique .
+
+40 Fr:	Nul ne peut être obligé de faire partie d’une association.
+En:	Everyone has the right to freedom of peaceful assembly and association.
+Fr-En:	Nul ne pouvoir être obliger de faire partie d’ un association .
+
+41 Fr:	Toute personne a le droit de prendre part à la direction des affaires publiques de son pays, soit directement, soit par l’intermédiaire de représentants librement choisis.
+En:	No one may be compelled to belong to an association.
+Fr-En:	Tout personne avoir le droit de prendre part à le direction de affaire public de son pays , être directement , être par l’ intermédiaire de représentant librement choisir .
+
+42 Fr:	Toute personne a droit à accéder, dans des conditions d’égalité, aux fonctions publiques de son pays.
+En:	Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
+Fr-En:	Tout personne avoir droit à accéder , dans un condition d’ égalité , à fonction public de son pays .
+
+43 Fr:	La volonté du peuple est le fondement de l’autorité des pouvoirs publics ; cette volonté doit s’exprimer par des élections honnêtes qui doivent avoir lieu périodiquement, au suffrage universel égal et au vote secret ou suivant une procédure équivalente assurant la liberté du vote.
+En:	Everyone has the right of equal access to public service in his country.
+Fr-En:	Le volonté de peuple être le fondement de l’ autorité de pouvoir public ; ce volonté devoir s’ exprimer par un élection honnête qui devoir avoir lieu périodiquement , au suffrage universel égal et au vote secret ou suivre un procédure équivalent assurer le liberté de vote .
+
+44 Fr:	Toute personne, en tant que membre de la société, a droit à la sécurité sociale ; elle est fondée à obtenir la satisfaction des droits économiques, sociaux et culturels indispensables à sa dignité et au libre développement de sa personnalité, grâce à l’effort national et à la coopération internationale, compte tenu de l’organisation et des ressources de chaque pays.
+En:	The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.
+Fr-En:	Tout personne , en tant que membre de le société , avoir droit à le sécurité social ; lui être fonder à obtenir le satisfaction de droit économique , social et culturel indispensable à son dignité et au libre développement de son personnalité , grâce à l’ effort national et à le coopération international , compte tenir de l’ organisation et un ressource de chaque pays .
+
+45 Fr:	Toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage.
+En:	Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co‐operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.
+Fr-En:	Tout personne avoir droit au travail , au libre choix de son travail , à un condition équitable et satisfaisant de travail et à le protection contre le chômage .
+
+46 Fr:	Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal.
+En:	Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
+Fr-En:	Tout avoir droit , sans aucun discrimination , à un salaire égal pour un travail égal .
+
+47 Fr:	Quiconque travaille a droit à une rémunération équitable et satisfaisante lui assurant ainsi qu’à sa famille une existence conforme à la dignité humaine et complétée, s’il y a lieu, par tous autres moyens de protection sociale.
+En:	Everyone, without any discrimination, has the right to equal pay for equal work.
+Fr-En:	Quiconque travailler avoir droit à un rémunération équitable et satisfaisant luire assurer ainsi qu’ à son famille un existence conforme à le dignité humain et compléter , s’ il y avoir lieu , par tout autre moyen de protection social .
+
+48 Fr:	Toute personne a le droit de fonder avec d’autres des syndicats et de s’affilier à des syndicats pour la défense de ses intérêts.
+En:	Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.
+Fr-En:	Tout personne avoir le droit de fonder avec d’ autre de syndicat et de s’ affilier à un syndicat pour le défense de son intérêt .
+
+49 Fr:	Toute personne a droit au repos et aux loisirs et notamment à une limitation raisonnable de la durée du travail et à des congés payés périodiques.
+En:	Everyone has the right to form and to join trade unions for the protection of his interests.
+Fr-En:	Tout personne avoir droit au repos et à loisir et notamment à un limitation raisonnable de le durée de travail et à un congé payer périodique .
+
+50 Fr:	Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien‐être et ceux de sa famille, notamment pour l’alimentation, l’habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires ; elle a droit à la sécurité en cas de chômage, de maladie, d’invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté.
+En:	Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
+Fr-En:	Tout personne avoir droit à un niveau de vie suffire pour assurer son santé , son bien‐être et celui de son famille , notamment pour l’ alimentation , l’ habillement , le logement , le soin médical ainsi que pour le service social nécessaire ; lui avoir droit à le sécurité en cas de chômage , de maladie , d’ invaliditer , de veuvage , de vieillesse ou dans le autre cas de perte de son moyen de subsistance par suite de circonstance indépendant de son volonté .
+
+51 Fr:	La maternité et l’enfance ont droit à une aide et à une assistance spéciales. Tous les enfants, qu’ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.
+En:	Everyone has the right to a standard of living adequate for the health and well‐being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
+Fr-En:	Le maternité et l’ enfance avoir droit à un aide et à un assistance spécial . tout le enfant , qu’ il être naître dans le mariage ou hors mariage , jouir de le même protection social .
+
+52 Fr:	Toute personne a droit à l’éducation. L’éducation doit être gratuite, au moins en ce qui concerne l’enseignement élémentaire et fondamental. L’enseignement élémentaire est obligatoire. L’enseignement technique et professionnel doit être généralisé ; l’accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite.
+En:	Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.
+Fr-En:	Tout personne avoir droit à l’ éducation . l’ éducation devoir être gratuit , au moins en ce qui concerner l’ enseignement élémentaire et fondamental . l’ enseignement élémentaire être obligatoire . l’ enseignement technique et professionnel devoir être généraliser ; l’ accès à étude supérieur devoir être ouvrir en pleine égaliter à tout en fonction de son mérite .
+
+53 Fr:	L’éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l’homme et des libertés fondamentales. Elle doit favoriser la compréhension, la tolérance et l’amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix.
+En:	Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.
+Fr-En:	L’ éducation devoir viser au plein épanouissement de le personnalité humain et au renforcement de respect de droit de l’ homme et de liberté fondamentale . lui devoir favoriser le compréhension , le tolérance et l’ amitier entrer tout le nation et tout le groupe racial ou religieux , ainsi que le développement de activité de nation unir pour le maintien de le paix .
+
+54 Fr:	Les parents ont, par priorité, le droit de choisir le genre d’éducation à donner à leurs enfants.
+En:	Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.
+Fr-En:	Le parent avoir , par priorité , le droit de choisir le genre d’ éducation à donner à leur enfant .
+
+55 Fr:	Toute personne a le droit de prendre part librement à la vie culturelle de la communauté, de jouir des arts et de participer au progrès scientifique et aux bienfaits qui en résultent.
+En:	Parents have a prior right to choose the kind of education that shall be given to their children.
+Fr-En:	Tout personne avoir le droit de prendre part libremer à le vie culturel de le communauté , de jouir de art et de participer au progrès scientifique et à bienfait qui en résulter .
+
+56 Fr:	Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l’auteur.
+En:	Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
+Fr-En:	Chacun avoir droit à le protection de intérêt moral et matériel découlant de tout production scientifique , littéraire ou artistique dont il être l’ auteur .
+
+57 Fr:	Toute personne a droit à ce que règne, sur le plan social et sur le plan international, un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissent y trouver plein effet.
+En:	Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
+Fr-En:	Tout personne avoir droit à ce que régner , sur le plan social et sur le plan international , un ordre tel que le droit et liberté énoncer dans le présent déclaration pouvoir y trouver plein effet .
+
+58 Fr:	L’individu a des devoirs envers la communauté dans laquelle seul le libre et plein développement de sa personnalité est possible.
+En:	Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.
+Fr-En:	L’ individu avoir un devoir envers le communauté dans lequel seul le libre et plein développement de son personnalité être possible .
+
+59 Fr:	Dans l’exercice de ses droits et dans la jouissance de ses libertés, chacun n’est soumis qu’aux limitations établies par la loi exclusivement en vue d’assurer la reconnaissance et le respect des droits et libertés d’autrui et afin de satisfaire aux justes exigences de la morale, de l’ordre public et du bien‐être général dans une société démocratique.
+En:	Everyone has duties to the community in which alone the free and full development of his personality is possible.
+Fr-En:	Dans l’ exercice de son droit et dans le jouissance de son liberté , chacun n’ être soumettre qu’ à limitation établir par le loi exclusivement en vue d’ assurer le reconnaissance et le respect de droit et liberté d’ autrui et afin de satisfaire à juste exigence de le morale , de l’ ordre public et de bien‐être général dans un société démocratique .
+
+60 Fr:	Ces droits et libertés ne pourront, en aucun cas, s’exercer contrairement aux buts et aux principes des Nations Unies.
+En:	In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
+Fr-En:	Ce droit et liberté ne pouvoir , en aucun cas , s’ exercer contrairement à but et à principe de nation unie .
+
+61 Fr:	Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un État, un groupement ou un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits et libertés qui y sont énoncés.
+En:	These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
+Fr-En:	Aucun disposition de le présent déclaration ne pouvoir être interpréter comme impliquer pour un état , un groupement ou un individu un droit quelconque de se livrer à un activité ou d’ accomplir un acte viser à le destruction de droit et liberté qui y être énoncer .
+
