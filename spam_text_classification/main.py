@@ -1,7 +1,7 @@
 ## Names and Matric Numbers:
-# Choo Shuen Ming U1931232D
-# Daniel Kainovan Handoyo U2230837E
-# Liw Jun Le U2221922D
+# Choo Shuen Ming
+# Daniel Kainovan Handoyo
+# Liw Jun Le
 
 import pandas as pd
 from tqdm import tqdm
