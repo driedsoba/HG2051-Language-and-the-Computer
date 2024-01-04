@@ -1,5 +1,4 @@
 ## Name: Liw Jun Le
-## Matric number: U2221922D
 
 import nltk
 import pandas as pd
