@@ -1,0 +1,6 @@
+nltk
+pandas
+scikit-learn
+tqdm
+seaborn
+imblearn
